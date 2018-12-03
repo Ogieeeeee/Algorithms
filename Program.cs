@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Algorithms
 {
     class Program
@@ -33,6 +32,14 @@ namespace Algorithms
                 System.Console.WriteLine(item);
             }
 
+            //MergeSort
+            unsortedArray = new int[] { 5, 1, 3, 6, 6, 5 };
+            Merge.Sort(unsortedArray,0,unsortedArray.Length-1);
+            Console.WriteLine();Console.WriteLine("MergeSort");
+            foreach (var item in unsortedArray)
+            {
+             System.Console.WriteLine(item);   
+            }
 
 
 
