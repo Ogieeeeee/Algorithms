@@ -201,10 +201,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.App/2.0.0": {
-      "sha512": "lVWuA7oca1LbR2U54dCh/xKSsN5iXTB74J+bEKtgJy2dAJpvayTBvllu0MLp+6fCDfpIFyk+MtqpKV0mTEDnSw==",
+      "sha512": "aEj44yEbsK+XlDwPNSM7CeaYDg33NMk492y2kFRIOMPOVmXvXNO0LTDm8lUhS4Jlm2uNFsIDDH4ggt9lnSDejQ==",
       "type": "package",
       "path": "microsoft.netcore.app/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "Microsoft.NETCore.App.versions.txt",
         "THIRD-PARTY-NOTICES.TXT",
@@ -479,10 +481,12 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.0.0": {
-      "sha512": "m3czS7hu30drWJpDaEhuLNEH4mwE2jYCg/RWVCiszQ9+RujdfcJJtpsWzcWP79uznKiAyItR3OvshD5ynC+auw==",
+      "sha512": "dYQNVWNBsO9LldqAyJTt/wYUq2BScXq3ENBaNUjELS3sT53mwrgyPpmoLHsE7H10RzYOHEl5G0sg/jpZGlIAzA==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
@@ -491,10 +495,12 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
-      "sha512": "pkpOGcWaOC1yc/IBo+Wbme0yxAQpPSJUPOADSD+akhL7XBYD9BAQ271AkGEaxBzpj1NzbgxmbyjhbgFqUWHBAg==",
+      "sha512": "RAMrQqBFMiF4dbpHJEvcwwXG+ISoKRck8zXlfr49waPc7xllEpv/ANHi4c3pCTkVIdNNSdDYf71YjbkaRSHJgg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
@@ -503,10 +509,12 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
-      "sha512": "u9+6GAnxDm4nKNmTrvDsCPpV8W0y8c/QOkyK/OCrE283zOtDyUwRkKqFZo9Oku2MAwdAbXIGbjKaf9GXtQUwog==",
+      "sha512": "LrZ1AcFJF7+da03Is+5RKdqjnDVNnoi1MBRAi4LRif3uO9rRntfNUezeNcG/OO/yGYzyEwGJkioyw8ZWGJiKWg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
@@ -515,10 +523,12 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "sha512": "5BdAWDgMNwf90L0J+C/eh6kfHDa37ViL1cBL1nv5zPA4TB2cGV51YiQyvzCEy9DBE0LwwMI4+PkUpIekKyocSA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -530,10 +540,12 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "PMi3A7JovaIDWcZ8xcIgL8M/YNsHO2FtdGbugBEYMaAwLH5HIruYRosHijqdGF+ZZGFn2pmO5x14MKMDZ5tiaQ==",
+      "sha512": "49ZAcrnNn56GIJwGoiaI7NpwcEJ8mjUyfSqVYIJMDhOBzPe8HSHS74swF2H0v8fzj7pxLfcYjS9P5PdIqsTQxw==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/NETStandard.Library.targets",
@@ -670,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\okell\\Documents\\GitHub\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\okell\\OneDrive\\Documenten\\Ogie\\School\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\okell\\Documents\\GitHub\\Algorithms\\Algorithms.csproj",
+      "projectPath": "C:\\Users\\okell\\OneDrive\\Documenten\\Ogie\\School\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\okell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\okell\\Documents\\GitHub\\Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\okell\\OneDrive\\Documenten\\Ogie\\School\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
